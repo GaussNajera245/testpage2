@@ -27,7 +27,7 @@ function App() {
       <footer>
         <div className="container">
           <Link to="/" className="logo-font">
-            This a Demo App, Might delete later
+            Demo App but on MouseStats
           </Link>
           <span className="attribution">
             An interactive learning project from <a href="https://thinkster.io">Thinkster</a>. Code &amp; design
